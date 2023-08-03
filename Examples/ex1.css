@@ -1,0 +1,83 @@
+body{
+  background-color: #F1F2F6; 
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+#div_1{
+  display: flex;
+  width: fit-content;
+  margin-top: 160px;
+  padding-top: 40px;
+}
+h1{
+  color: rgb(13, 141, 246);
+  padding-right: 30px;
+}
+#div_2{
+padding-right: 3%;
+margin: 50px;
+}
+#div_3{
+background-color: white;
+padding-top: px;
+padding-right: 30px;
+padding-bottom: 15px;
+text-align: center;
+box-shadow: 10px 10px 10px black ;
+}
+#div_4{
+  padding-right: 30px;
+ margin-bottom: 30px;
+}
+.Login
+{color: white;
+  background-color: rgb(3, 126, 197);
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  width: 300px;
+  font-size: 17px;
+  margin-bottom: 10px;
+  }
+.cna{
+  color: #F1F2F6;
+  background-color: rgba(30, 147, 7, 0.823);
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  width: 250px;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+.fp{
+  text-decoration: none;
+  color: black;
+  
+
+}
+hr{
+  margin-top: 10px;
+}
+.cp{
+    font-weight: bold;
+    font-size: 14px;
+}
+.cp2{
+  font-size: 14px;
+  margin-top: 20px;
+  text-align: center;
+}
+h1{
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin: 0%;
+}
+p{
+  padding-right: 0px;
+  margin: 0%;
+}
+form{
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin-bottom: -10px;
+  padding-left: 30px;
+}
